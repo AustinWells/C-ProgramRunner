@@ -1,6 +1,6 @@
 echo "_______________________________"
 echo "Welcome to the C program runner"
-echo "        By Arjun Dhiman        "
+echo "        By Austin Wells        "
 echo "_______________________________"
 
 if test $# -ne 1
